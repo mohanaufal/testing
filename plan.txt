@@ -2,6 +2,9 @@ PLANNING
 - Plan 1
 - Plan 2
 - Plan 4
+  - Sub plan 1
   - Sub plan 2
+- Plan 5
 - Plan 6
+- Plan 7
 - Plan 10
